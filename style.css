@@ -1,0 +1,14 @@
+.tag-wrapper{
+    border: 1px solid grey;
+    height: 100px;
+    /* width: 200px; */
+
+
+}
+.tag{
+    background-color: brown;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+
+}
